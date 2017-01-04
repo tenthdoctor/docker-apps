@@ -26,7 +26,7 @@ OS Virtualization techniques
 - Solaris Zones
 - LXC
 
-![Continers vs Virtual Machines](https://github.com/tenthdoctor/DockerToDos/blob/img/VirtualMachinesVsContainers.png?raw=true)
+![Continers vs Virtual Machines](https://github.com/tenthdoctor/docker-apps/master/img/VirtualMachinesVsContainers.png?raw=true)
 
 ###### What is Docker?
 
@@ -37,15 +37,15 @@ OS Virtualization techniques
 - Ecosystem of tools and services
 - Used for application deployment - "It works on local machine."
 
-![docker](https://github.com/tenthdoctor/DockerToDos/blob/img/Docker.png?raw=true)
+![docker](https://github.com/tenthdoctor/docker-apps/master/img/Docker.png?raw=true)
 
 Docker is the client-server application and the client runs the commands via TCP and HTTP sockets, Docker host is the server side component that hosts the  actual docker daemon, it also hosts containers and images, Docker registry is the host of various pre built containers/images, Docker machine is a command line inteface to run commands on other docker machines.Swarm is used for managing a cluster of dockers instead of managing a single node.
 
-![docker swarm](https://github.com/tenthdoctor/DockerToDos/blob/img/Swarm.png?raw=true)
+![docker swarm](https://github.com/tenthdoctor/docker-apps/master/img/Swarm.png?raw=true)
 
 Docker compose is used for running multi-node clusters and starting the services from a single file.
 
-![docker compose](https://github.com/tenthdoctor/DockerToDos/blob/img/Compose.png?raw=true)
+![docker compose](https://github.com/tenthdoctor/docker-apps/master/img/Compose.png?raw=true)
 
 -----------------------------------------
 
